@@ -5,6 +5,7 @@ Each project is located in its own folder and has its own requirements. Follow t
 
 ### Global Instructions
 
+- Do it in Vue3
 - Create your own repository for the tech test hub assigned.
 - Use Vite as the build tool for your projects.
 - Create a README.md file with instructions on how to run the application.
