@@ -7,7 +7,7 @@ Within this repository, you will find fakebackend, where you must consume the en
 
 ## Requirements
 - Do not use any components/css framework.
-- Use vue-router.
+- Use some type of router (vue-router, react-router...).
 - Backend errors (login fail, code is wrong, etc.) must be displayed in the Error message of the mockup for 3 seconds.
 - The Code input should only be displayed when the backend returns 'otp required'.
 - If anything is changed in username or password, the Code input will be hidden again.
