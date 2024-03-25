@@ -1,0 +1,11 @@
+.header-container {
+  height: 70px;
+  background-color: #544864;
+  width: 100%;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  margin-bottom: 24px;
+}

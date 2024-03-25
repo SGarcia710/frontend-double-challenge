@@ -1,0 +1,17 @@
+.movie-body {
+  padding: 0 34px;
+}
+
+.movie-block {
+  display: flex;
+}
+
+.movie-details {
+  display: flex;
+  flex-direction: column;
+  margin-left: 18px;
+}
+
+.movie-details--title {
+  font-weight: 800;
+}
