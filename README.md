@@ -1,14 +1,14 @@
-## Tenant Tech Test HUB
+## Login Challenge Instructions:
 
-This repository contains a collection of small projects that are intended to be used for technical testing purposes.
-Each project is located in its own folder and has its own requirements. Follow the instructions in their README.md.
+1. Move to `fakebackend` folder.
+2. Install dependencies running `npm i`.
+3. Run the fake backend using `npm start`.
+4. Open another terminal window and go to `login-challenge` folder.
+5. Install dependencies running `npm i`.
+6. Run the project using `npm run dev`.
 
-### Global Instructions
+## Movies Challenge Instructions:
 
-- Create your own repository for the tech test hub assigned. (pref github)
-- Use Vite as the build tool for your projects.
-- Create a README.md file with instructions on how to run the application.
-- Include clear and concise instructions on how to run the project, including any dependencies or installation steps.
-- Make sure to follow the project requirements provided in each folder.
-- Organize your repository in a clear and logical way, making it easy for others to navigate.
-- Test your projects thoroughly before submitting them.
+1. Move to `movies-challenge` folder.
+2. Install dependencies running `npm i`.
+3. Run the project using `npm run dev`.
